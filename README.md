@@ -1,0 +1,6 @@
+![alt text](https://github.com/relliezhr/Implementasi_Intent/blob/master/main_activity.png)
+![alt text](https://github.com/relliezhr/Implementasi_Intent/blob/master/move_activity.png)
+![alt text](https://github.com/relliezhr/Implementasi_Intent/blob/master/move_activity_with_data.png)
+![alt text](https://github.com/relliezhr/Implementasi_Intent/blob/master/move_activity_with_object.png)
+![alt text](https://github.com/relliezhr/Implementasi_Intent/blob/master/move_activity_with_result.png)
+![alt text](https://github.com/relliezhr/Implementasi_Intent/blob/master/activity_result.png)
