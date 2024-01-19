@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Implementasi Intent</string>
+    <string name="move_activity_withoutData">Pindah Activity</string>
+    <string name="move_activity_withData">Pindah Activity Dengan Data</string>
+    <string name="move_activity_object">Pindah Activity Dengan Object</string>
+    <string name="dial_number">Dial A Number</string>
+    <string name="move_activity_result">Pindah Activity Untuk Result</string>
+    <string name="text_greeting">Hello, Android!</string>
+    <string name="data_received">Hasil Data</string>
+    <string name="_200">200</string>
+    <string name="_400">400</string>
+    <string name="_150">150</string>
+    <string name="_900">900</string>
+    <string name="ok">OK</string>
+    <string name="hasil">Hasil: 0</string>
+</resources>
